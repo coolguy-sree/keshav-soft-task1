@@ -18,16 +18,6 @@ This project demonstrates clean, modern, and responsive HTML pages built using B
 
 ## Deployment
 
-### GitHub Pages
-
-1. Create a new repository on GitHub and push your project files.
-
-2. In the repository settings, go to the "Pages" section.
-
-3. Select the branch (usually `main` or `master`) and the root folder (`/`) as the source.
-
-4. Save the settings. Your site will be published at `https://yourusername.github.io/repository-name/`.
-
 ### Netlify
 
 1. Create a free account on [Netlify](https://www.netlify.com/).
